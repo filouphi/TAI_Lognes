@@ -1,0 +1,56 @@
+body{
+	
+		background: linear-gradient(to right,#0DA321,#F7F705 ,#C90502);
+}
+
+h1,h2,h3,h4,h5,h6,h7 {
+		font-size:3em;
+		text-align:center;
+}
+
+p     {
+		color:#C41010; font-size:1.5em;
+}
+h1 {
+	    text-shadow: 5px 3px red;
+		border-style:solid;
+		border-width: 5px;
+}
+
+h2,h3,h4,h5,h6,h7{
+        
+        color:black;
+		border-style:solid;
+		border-width: 10px;
+
+}
+
+#reggae {
+	
+    text-align:center;
+}
+#bob{	
+
+  
+    margin:450px;
+
+}
+
+#tab{ text-align:center; }
+	
+#lion1
+{	
+
+  
+    text-align:center;
+
+}
+
+#lion2
+{	
+ margin:440px ;
+  
+
+
+}
+
